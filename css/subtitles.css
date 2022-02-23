@@ -16,14 +16,14 @@ div#subtitle {
     position: absolute;
     bottom: 75vh;
     left: 0px;
-    background: transparent;
+    background: #3349FF99;
     font-family: "San Francisco",
         "Helvetica Neue", "Helvetica",
         Arial, Sans-Serif;
-    font-size: calc( 3vh + 3vw );
+    font-size: 20px;
     font-weight: 200;
     line-height: calc( 4vh + 3vw );
-    color: #fefef2;
+    color: #FDFDFF;
     text-shadow: 3px 1px 4px #222;
     display: flex;
     flex-direction: column;
